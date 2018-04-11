@@ -2,8 +2,6 @@
 //  EE 569 Assignment 2
 //  Date: 02/14/17
 //  Name: Leila Suasnabar
-//  ID: 3109-9816-56
-//  email: lsuasnab@usc.edu
 //-----------------------------
 
 #include <iostream>
