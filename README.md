@@ -1,5 +1,5 @@
 # ee569-imageprocessing
-My solutions to the assignments for the class EE569 Digital Image Processing
+My solutions to the assignments for the USC graduate class EE569 Digital Image Processing
 
 HW2:
   - Geometric Image Modification
